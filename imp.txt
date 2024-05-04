@@ -1,0 +1,26 @@
+Passionate Software Engineer with a knack of learning something new everyday.
+
+"It’s not that we use technology, we LIVE technology". I strongly believe that we can achieve anything if we use Technology and Innovation together.
+
+In my free time I love to learn about latest technologies and work on my logic building skills.
+
+Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
+
+Always Eager to expand my skill-set and learn as I move forward.
+Looking forward to connect with like-minded people in the Industry & learn from them.
+
+My skill set include:
+☑️Proficient in JAVA, Data Structures and Algorithms, Python
+☑️Machine Learning, NLP, OpenCV
+☑️Front - end Web Development (HTML, CSS, JavaScript, React js, Next js, TailWind CSS, Vue js, Redux, Vuex)
+☑️Backend - end Web Development(Node js, Nest js, Django, GraphQl, SQL)
+☑️DataBases (MongoDB, MySQl, PostgreSQL, SQLlite, Redis, Firebase)
+☑️Cloud Platform (AWS, GCP)
+☑️Deployment Services (Vercel, Heroku, Firebase Hosting)
+☑️DevOps (Docker, Kubernetes)
+
+
+Profiles-
+💻GitHub : https://github.com/Yash621
+💻Portfolio : https://yash621.github.io/portfolio_me/
+💻Medium : https://medium.com/@yg17381
